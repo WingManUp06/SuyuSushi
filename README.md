@@ -6,4 +6,4 @@ It is a *mock* restaurant website
 
 ---
 ## Visit Suyu Sushi Here
-[Suyu Sushi](https://suyusushi.xyz)git
+[Suyu Sushi](https://suyusushi.xyz)
