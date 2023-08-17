@@ -26,7 +26,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: pm2 stop app.js
+    - run: pm2 stop SuyuSushi
     - run: npm i
     - run: npm run start
 
